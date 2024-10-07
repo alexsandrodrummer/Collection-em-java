@@ -21,11 +21,7 @@ Status:
 Complete o programa em Java para que possa controlar o cadastro dos dados por meio de uma Collection:
             Implemente a classe “ProjetoImpl” para que resolva as funcionalidades que se espera no programa.​
 ​
-*** NÃO ENVIAR O ARQUIVO (.EXE). ***
 
-CÓDIGO DO PROGRAMA A SER IMPLEMENTADO:
- 
-*** PRINCIPAL ***
 
 
 
